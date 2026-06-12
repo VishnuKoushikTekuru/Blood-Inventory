@@ -1,4 +1,4 @@
-[blood_inventory_README.md](https://github.com/user-attachments/files/28891674/blood_inventory_README.md)
+
 # Blood Inventory Demand Forecasting — LSTM Deep Learning
 
 Predicting daily blood bag demand using LSTM deep learning to help blood banks maintain optimal inventory, reduce wastage, and prevent shortages.
